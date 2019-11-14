@@ -1,4 +1,4 @@
-
+[![Build Status](https://barikatech.visualstudio.com/Corporate%20Web/_apis/build/status/scudzy.pipelines-java?branchName=master)](https://barikatech.visualstudio.com/Corporate%20Web/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
